@@ -43,6 +43,8 @@
 
 ## JavaScript 
 
+- [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -70,6 +72,7 @@
 
 ## Others 
 
+- [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [support](https://github.com/EddieJaoudeCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
 - [awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
 - [awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
