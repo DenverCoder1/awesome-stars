@@ -19,10 +19,12 @@
 
 ## C# # 
 
+- [Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
 
 ## C++ 
 
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
@@ -72,6 +74,7 @@
 
 ## Others 
 
+- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [support](https://github.com/EddieJaoudeCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
 - [awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
@@ -100,6 +103,7 @@
 
 ## TypeScript 
 
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
