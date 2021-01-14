@@ -14,6 +14,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -45,6 +46,7 @@
 
 ## JavaScript 
 
+- [virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop) - a virtual surface in the browser on which you can play board, dice and card games
 - [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -101,6 +103,10 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
+
+## Ruby 
+
+- [JessicaLim8](https://github.com/JessicaLim8/JessicaLim8) - Profile ReadME! Join my community word cloud!
 
 ## TypeScript 
 
