@@ -9,6 +9,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [Elixir](#elixir)
   - [HTML](#html)
   - [JavaScript](#javascript)
   - [Others](#others)
@@ -37,6 +38,10 @@
 ## Clojure 
 
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Elixir 
+
+- [stripcode](https://github.com/benawad/stripcode) - Competitive Online Game for Programmers
 
 ## HTML 
 
