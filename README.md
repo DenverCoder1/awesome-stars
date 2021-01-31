@@ -11,6 +11,7 @@
   - [Clojure](#clojure)
   - [Elixir](#elixir)
   - [HTML](#html)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Others](#others)
   - [PHP](#php)
@@ -49,6 +50,10 @@
 - [calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Unicode Formatter - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text.
+
+## Java 
+
+- [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 
 ## JavaScript 
 
