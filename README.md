@@ -90,9 +90,9 @@
 
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [support](https://github.com/EddieJaoudeCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
+- [support](https://github.com/EddieHubCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
 - [awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
-- [awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
+- [awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Profile README for DenverCoder1
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [daily](https://github.com/dailydotdev/daily) - Discover dev news with zero effort 👩🏽‍💻
