@@ -88,6 +88,7 @@
 
 ## Others 
 
+- [dateparser](https://github.com/DenverCoderOne/dateparser) - python parser for human readable dates
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [support](https://github.com/EddieHubCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
