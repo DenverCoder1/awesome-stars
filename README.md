@@ -88,6 +88,7 @@
 
 ## Others 
 
+- [My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
 - [dateparser](https://github.com/DenverCoderOne/dateparser) - python parser for human readable dates
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -104,6 +105,8 @@
 
 ## PHP 
 
+- [Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter) - Simple view counter for websites and Github READMEs.
+- [php-simple-crud-api](https://github.com/DenverCoder1/php-simple-crud-api) - Simple API for storing and retrieving labeled
 - [nanoid-php](https://github.com/hidehalo/nanoid-php) - PHP implementation of Nanoid, secure URL-friendly unique ID generator
 - [router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -112,6 +115,7 @@
 
 ## Python 
 
+- [Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot) - Reddit bot to tag long lists of users
 - [rolling-tags](https://github.com/abrahammurciano/rolling-tags) - 
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
