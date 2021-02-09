@@ -115,6 +115,7 @@
 
 ## Python 
 
+- [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot) - Reddit bot to tag long lists of users
 - [rolling-tags](https://github.com/abrahammurciano/rolling-tags) - 
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
