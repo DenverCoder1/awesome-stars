@@ -88,6 +88,7 @@
 
 ## Others 
 
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
 - [dateparser](https://github.com/DenverCoderOne/dateparser) - python parser for human readable dates
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
