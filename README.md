@@ -61,7 +61,6 @@
 - [virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop) - a virtual surface in the browser on which you can play board, dice and card games
 - [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
-- [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -108,6 +107,7 @@
 
 - [Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter) - Simple view counter for websites and Github READMEs.
 - [php-simple-crud-api](https://github.com/DenverCoder1/php-simple-crud-api) - Simple API for storing and retrieving labeled
+- [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [nanoid-php](https://github.com/hidehalo/nanoid-php) - PHP implementation of Nanoid, secure URL-friendly unique ID generator
 - [router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
