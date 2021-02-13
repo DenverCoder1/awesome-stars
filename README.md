@@ -57,6 +57,7 @@
 
 ## JavaScript 
 
+- [discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [web-monetization-scripts](https://github.com/interledgerjs/web-monetization-scripts) - Scripts to help you web monetize your site and/or API
 - [virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop) - a virtual surface in the browser on which you can play board, dice and card games
 - [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -116,6 +117,7 @@
 
 ## Python 
 
+- [discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command) - A simple discord slash command handler for discord.py.
 - [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot) - Reddit bot to tag long lists of users
 - [rolling-tags](https://github.com/abrahammurciano/rolling-tags) - 
