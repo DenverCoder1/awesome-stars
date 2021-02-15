@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
@@ -19,6 +20,10 @@
   - [Ruby](#ruby)
   - [TypeScript](#typescript)
   - [Vue](#vue)
+
+## C 
+
+- [Complete-Fire-Red-Upgrade](https://github.com/Skeli789/Complete-Fire-Red-Upgrade) - A complete upgrade for FireRed, including an upgraded Battle Engine.
 
 ## C# # 
 
