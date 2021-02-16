@@ -10,6 +10,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [Dart](#dart)
   - [Elixir](#elixir)
   - [HTML](#html)
   - [Java](#java)
@@ -44,6 +45,10 @@
 ## Clojure 
 
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Dart 
+
+- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Elixir 
 
