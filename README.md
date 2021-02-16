@@ -63,6 +63,7 @@
 
 ## Java 
 
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 
 ## JavaScript 
