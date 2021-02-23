@@ -68,6 +68,7 @@
 
 ## JavaScript 
 
+- [nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
 - [discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [web-monetization-scripts](https://github.com/interledgerjs/web-monetization-scripts) - Scripts to help you web monetize your site and/or API
 - [virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop) - a virtual surface in the browser on which you can play board, dice and card games
