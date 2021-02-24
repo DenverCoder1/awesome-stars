@@ -101,6 +101,7 @@
 
 ## Others 
 
+- [photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
 - [dateparser](https://github.com/DenverCoderOne/dateparser) - python parser for human readable dates
