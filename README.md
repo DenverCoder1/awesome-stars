@@ -111,7 +111,7 @@
 - [awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Profile README for DenverCoder1
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [daily](https://github.com/dailydotdev/daily) - Discover dev news with zero effort 👩🏽‍💻
+- [daily](https://github.com/dailydotdev/daily) - All-in-one coding news reader 👩🏽‍💻
 - [creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary) - Gboard Dictionary for LaTeX shortcuts
