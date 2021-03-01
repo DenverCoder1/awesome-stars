@@ -68,6 +68,7 @@
 
 ## JavaScript 
 
+- [learn-build-teach-discord-bot](https://github.com/jamesqquick/learn-build-teach-discord-bot) - 
 - [nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
 - [discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [web-monetization-scripts](https://github.com/interledgerjs/web-monetization-scripts) - Scripts to help you web monetize your site and/or API
