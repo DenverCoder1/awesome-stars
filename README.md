@@ -35,6 +35,7 @@
 
 ## C++ 
 
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 
@@ -103,6 +104,7 @@
 
 ## Others 
 
+- [dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
 - [photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
@@ -151,6 +153,7 @@
 
 ## TypeScript 
 
+- [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
 - [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for TabNine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
