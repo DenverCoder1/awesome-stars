@@ -19,6 +19,7 @@
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -143,6 +144,10 @@
 ## Ruby 
 
 - [JessicaLim8](https://github.com/JessicaLim8/JessicaLim8) - Profile ReadME! Join my community word cloud!
+
+## Shell 
+
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## TypeScript 
 
