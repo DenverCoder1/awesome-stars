@@ -104,6 +104,7 @@
 
 ## Others 
 
+- [nemo-open-in-vscode](https://github.com/mhsattarian/nemo-open-in-vscode) - "Open in vscode" option for context menu in Cinnamon file manager, Nemo.
 - [dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
 - [photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
