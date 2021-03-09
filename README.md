@@ -41,6 +41,7 @@
 
 ## CSS 
 
+- [material-dev-tools](https://github.com/mallowigi/material-dev-tools) - Material Theme UI for Chrome DevTools
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 
