@@ -70,6 +70,7 @@
 
 ## JavaScript 
 
+- [wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [learn-build-teach-discord-bot](https://github.com/jamesqquick/learn-build-teach-discord-bot) - 
 - [nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
 - [discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
