@@ -35,6 +35,7 @@
 
 ## C++ 
 
+- [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -71,6 +72,7 @@
 
 ## JavaScript 
 
+- [cinnamon-spices-applets](https://github.com/linuxmint/cinnamon-spices-applets) - Applets for the Cinnamon desktop
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [learn-build-teach-discord-bot](https://github.com/jamesqquick/learn-build-teach-discord-bot) - 
 - [nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
