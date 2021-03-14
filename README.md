@@ -11,7 +11,6 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Dart](#dart)
-  - [Elixir](#elixir)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -40,7 +39,6 @@
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 
 ## CSS 
 
@@ -55,10 +53,6 @@
 ## Dart 
 
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-
-## Elixir 
-
-- [stripcode](https://github.com/benawad/stripcode) - Competitive Online Game for Programmers
 
 ## HTML 
 
