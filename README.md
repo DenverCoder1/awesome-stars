@@ -56,7 +56,7 @@
 
 ## HTML 
 
-- [weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Simple weather app using HTML, CSS, and JavaScript
+- [weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Simple weather app using HTML, CSS, and JavaScript using the Openweathermap API for fetching weather information and the OpenCage API for geolocation.
 - [calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Unicode Formatter - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text.
@@ -123,7 +123,7 @@
 - [daily](https://github.com/dailydotdev/daily) - All-in-one coding news reader 👩🏽‍💻
 - [creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-- [LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary) - Gboard Dictionary for LaTeX shortcuts
+- [LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary) - ⌨ Type math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX directly within the default Gboard keyboard.
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 
 ## PHP 
