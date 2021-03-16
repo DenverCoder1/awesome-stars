@@ -103,7 +103,7 @@
 - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit) - Creates a link next to edited and deleted Reddit comments to show the original comment from before it was edited. The unedited comment is displayed inline.
+- [Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
 - [door](https://github.com/ncase/door) - A Valentine's Day one-minute minigame
 
 ## Others 
