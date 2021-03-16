@@ -56,7 +56,7 @@
 
 ## HTML 
 
-- [weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the Openweathermap API for fetching weather information and the OpenCage API for geolocation
+- [weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
 - [calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Unicode Formatter - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text.
@@ -134,7 +134,7 @@
 - [router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [random-issue-picker](https://github.com/icanhazstring/random-issue-picker) - Select random github issue by certain criteria
-- [github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README
+- [github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
 
 ## Python 
 
