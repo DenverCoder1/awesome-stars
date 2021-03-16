@@ -56,7 +56,7 @@
 
 ## HTML 
 
-- [weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Simple weather app using HTML, CSS, and JavaScript using the Openweathermap API for fetching weather information and the OpenCage API for geolocation.
+- [weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the Openweathermap API for fetching weather information and the OpenCage API for geolocation
 - [calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Unicode Formatter - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text.
