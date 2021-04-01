@@ -69,6 +69,7 @@
 
 ## JavaScript 
 
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [patrickxchong/hide-discord-sidebar](https://github.com/patrickxchong/hide-discord-sidebar) - Chrome extension that installs an unfolding sidebar for Discord channels and a button that hides/shows the Discord server list.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -129,6 +130,7 @@
 
 ## PHP 
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter) - Simple view counter for websites and Github READMEs.
 - [DenverCoder1/php-simple-crud-api](https://github.com/DenverCoder1/php-simple-crud-api) - Simple API for storing and retrieving labeled
 - [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php) - PHP implementation of Nanoid, secure URL-friendly unique ID generator
@@ -139,6 +141,7 @@
 
 ## Python 
 
+- [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
 - [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command) - A simple discord slash command handler for discord.py.
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [DenverCoder1/Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot) - Reddit bot to tag long lists of users
@@ -150,6 +153,7 @@
 
 ## Ruby 
 
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8) - Profile ReadME! Join my community word cloud!
 
 ## Shell 
