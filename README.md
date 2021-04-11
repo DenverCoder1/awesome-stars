@@ -143,6 +143,7 @@
 
 ## Python 
 
+- [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) - Bot for JCT ESP Compsci Discord
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
