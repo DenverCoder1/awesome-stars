@@ -57,6 +57,7 @@
 
 ## HTML 
 
+- [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
 - [mdayaram/calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -111,6 +112,7 @@
 
 ## Others 
 
+- [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [mhsattarian/nemo-open-in-vscode](https://github.com/mhsattarian/nemo-open-in-vscode) - "Open in vscode" option for context menu in Cinnamon file manager, Nemo.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
@@ -167,6 +169,7 @@
 
 ## TypeScript 
 
+- [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
 - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
