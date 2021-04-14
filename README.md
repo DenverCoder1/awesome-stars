@@ -179,6 +179,8 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
+- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude's Discord server
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
