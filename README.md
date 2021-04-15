@@ -21,6 +21,7 @@
   - [Ruby](#ruby)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [Vala](#vala)
   - [Vue](#vue)
 
 ## C 
@@ -192,6 +193,10 @@
 - [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+## Vala 
+
+- [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vue 
 
