@@ -72,6 +72,7 @@
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
 - [mdayaram/calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
+- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Java 
@@ -100,7 +101,6 @@
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people) - Awesome list of cool people - star if you want to join
