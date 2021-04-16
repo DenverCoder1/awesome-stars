@@ -10,6 +10,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
@@ -52,6 +53,10 @@
 ## Clojure 
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## CoffeeScript 
+
+- [emojitracker/emojitrack-web](https://github.com/emojitracker/emojitrack-web) - :dizzy: Emojitracker frontend application
 
 ## Dart 
 
@@ -121,6 +126,7 @@
 
 ## Others 
 
+- [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [mhsattarian/nemo-open-in-vscode](https://github.com/mhsattarian/nemo-open-in-vscode) - "Open in vscode" option for context menu in Cinnamon file manager, Nemo.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
