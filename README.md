@@ -73,7 +73,6 @@
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
 - [mdayaram/calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Unicode Formatter - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text.
 
 ## Java 
 
@@ -83,6 +82,7 @@
 
 ## JavaScript 
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -104,6 +104,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people) - Awesome list of cool people - star if you want to join
+- [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Unicode Formatter - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [fireship-io/229-multi-level-dropdown](https://github.com/fireship-io/229-multi-level-dropdown) - Build an animated multi-level dropdown inspired by Facebook's UI
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
