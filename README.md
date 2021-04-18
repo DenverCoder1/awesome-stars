@@ -16,6 +16,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Markdown](#markdown)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -125,6 +126,10 @@
 - [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
 - [ncase/door](https://github.com/ncase/door) - A Valentine's Day one-minute minigame
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Others 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -164,6 +169,7 @@
 
 ## Python 
 
+- [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
 - [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) - Bot for JCT ESP Compsci Discord
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
