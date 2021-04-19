@@ -169,6 +169,7 @@
 
 ## Python 
 
+- [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
 - [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) - Bot for JCT ESP Compsci Discord
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
