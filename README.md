@@ -173,6 +173,7 @@
 
 ## Python 
 
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - Module for converting 2D Python lists to fancy ASCII tables
 - [kevslinger/ravenclaw-discord-bot](https://github.com/kevslinger/ravenclaw-discord-bot) - 
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
