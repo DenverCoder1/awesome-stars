@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
