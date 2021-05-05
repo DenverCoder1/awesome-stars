@@ -172,6 +172,7 @@
 
 ## Python 
 
+- [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess) - Module for creating match links on Lichess that players can join
 - [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - Module for converting 2D Python lists to fancy ASCII tables. Table2Ascii lets you display pretty tables in the terminal and on Discord.
 - [kevslinger/ravenclaw-discord-bot](https://github.com/kevslinger/ravenclaw-discord-bot) - 
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
