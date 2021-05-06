@@ -39,6 +39,7 @@
 
 ## C++ 
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -84,6 +85,8 @@
 
 ## JavaScript 
 
+- [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
+- [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
@@ -173,6 +176,18 @@
 
 ## Python 
 
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+- [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers. :tada:
+- [cyanfish/python-lichess](https://github.com/cyanfish/python-lichess) - Python client for the lichess.org API
+- [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
+- [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
+- [matthewwithanm/python-markdownify](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown
+- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
+- [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
+- [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
+- [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot) - Discord bot for Weasley's Chess Club server
 - [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess) - Module for creating match links on Lichess that players can join
 - [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - Module for converting 2D Python lists to fancy ASCII tables. Table2Ascii lets you display pretty tables in the terminal and on Discord.
