@@ -10,7 +10,6 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
@@ -22,6 +21,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [Slim](#slim)
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vue](#vue)
@@ -55,10 +55,6 @@
 ## Clojure 
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## CoffeeScript 
-
-- [emojitracker/emojitrack-web](https://github.com/emojitracker/emojitrack-web) - :dizzy: Emojitracker frontend application
 
 ## Dart 
 
@@ -215,6 +211,10 @@
 ## Shell 
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+## Slim 
+
+- [emojitracker/emojitrack-web](https://github.com/emojitracker/emojitrack-web) - :dizzy: Emojitracker frontend application
 
 ## TypeScript 
 
