@@ -82,6 +82,7 @@
 
 ## JavaScript 
 
+- [ntkme/github-buttons](https://github.com/ntkme/github-buttons) - :octocat: Unofficial github:buttons.
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
