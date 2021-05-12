@@ -82,6 +82,7 @@
 
 ## JavaScript 
 
+- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Overview of Fosscord a free open source selfhostable chat, voice and video discord-compatible platform
 - [ntkme/github-buttons](https://github.com/ntkme/github-buttons) - :octocat: Unofficial github:buttons.
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
