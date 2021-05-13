@@ -67,6 +67,7 @@
 
 ## HTML 
 
+- [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord) - A simple - customizable - Discord Client
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
@@ -82,7 +83,6 @@
 
 ## JavaScript 
 
-- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Overview of Fosscord a free open source selfhostable chat, voice and video discord-compatible platform
 - [ntkme/github-buttons](https://github.com/ntkme/github-buttons) - :octocat: Unofficial github:buttons.
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
