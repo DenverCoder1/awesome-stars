@@ -28,6 +28,7 @@
 
 ## C 
 
+- [stub42/pytz](https://github.com/stub42/pytz) - pytz Python historical timezone library and database
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [Skeli789/Complete-Fire-Red-Upgrade](https://github.com/Skeli789/Complete-Fire-Red-Upgrade) - A complete upgrade for FireRed, including an upgraded Battle Engine.
 
@@ -169,7 +170,7 @@
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter) - Simple view counter for websites and Github READMEs.
-- [DenverCoder1/php-simple-crud-api](https://github.com/DenverCoder1/php-simple-crud-api) - Simple API for storing and retrieving labeled
+- [DenverCoder1/php-simple-crud-api](https://github.com/DenverCoder1/php-simple-crud-api) - Simple API for storing and retrieving labeled data (key-value pairs)
 - [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php) - PHP implementation of Nanoid, secure URL-friendly unique ID generator
 - [bramus/router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
