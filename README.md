@@ -28,6 +28,7 @@
 
 ## C 
 
+- [msabramo/pyOpenSSL](https://github.com/msabramo/pyOpenSSL) - Experimental fork of lp:pyopenssl
 - [stub42/pytz](https://github.com/stub42/pytz) - pytz Python historical timezone library and database
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [Skeli789/Complete-Fire-Red-Upgrade](https://github.com/Skeli789/Complete-Fire-Red-Upgrade) - A complete upgrade for FireRed, including an upgraded Battle Engine.
@@ -182,6 +183,10 @@
 
 ## Python 
 
+- [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
+- [praw-dev/prawcore](https://github.com/praw-dev/prawcore) - Low-level communication layer for PRAW 4+.
+- [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
+- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
