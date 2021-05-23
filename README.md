@@ -89,7 +89,7 @@
 
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [jgclark/vscode-todo-highlight](https://github.com/jgclark/vscode-todo-highlight) - VSCode Extension to highlight TODOs etc.
-- [saviomartin/loficlub](https://github.com/saviomartin/loficlub) - Enjoy Hip hop beats to Relax or Study! 🎧 🎶
+- [saviomartin/loficlub](https://github.com/saviomartin/loficlub) - Enjoy Hip hop beats to Relax or Code! 🎧 🎶
 - [ntkme/github-buttons](https://github.com/ntkme/github-buttons) - :octocat: Unofficial github:buttons.
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
