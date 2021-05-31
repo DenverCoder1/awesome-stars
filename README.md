@@ -52,7 +52,6 @@
 ## CSS 
 
 - [mallowigi/material-dev-tools](https://github.com/mallowigi/material-dev-tools) - Material Theme UI for Chrome DevTools
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 
 ## Clojure 
@@ -154,7 +153,6 @@
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [DenverCoderOne/My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
-- [DenverCoderOne/dateparser](https://github.com/DenverCoderOne/dateparser) - python parser for human readable dates
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
