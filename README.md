@@ -143,6 +143,7 @@
 
 ## Others 
 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection) - Minimalistic, flat art, and colorful, digital nature wallpapers
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
