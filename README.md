@@ -188,6 +188,7 @@
 
 ## Python 
 
+- [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
 - [kiki7000/discord.py-components](https://github.com/kiki7000/discord.py-components) - An unofficial library for discord components (under-development)
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
