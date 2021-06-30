@@ -144,6 +144,7 @@
 
 ## Others 
 
+- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [DenverCoder1/Minimalistic-Wallpaper-Collection](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection) - Minimalistic, flat art, and colorful, digital nature wallpapers
