@@ -70,6 +70,7 @@
 
 ## HTML 
 
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [FabDevGit/barchartrace](https://github.com/FabDevGit/barchartrace) - Bar chart race online editor
 - [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord) - A simple - customizable - Discord Client
