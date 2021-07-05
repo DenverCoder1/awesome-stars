@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [nwtgck/gif-progress](https://github.com/nwtgck/gif-progress) - 🎬 Attach progress bar to animated GIF
 
 ## HTML 
