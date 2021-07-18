@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [jgclark/vscode-todo-highlight](https://github.com/jgclark/vscode-todo-highlight) - VSCode Extension to highlight TODOs etc.
 - [saviomartin/loficlub](https://github.com/saviomartin/loficlub) - Enjoy Hip hop beats to Relax or Code! 🎧 🎶
