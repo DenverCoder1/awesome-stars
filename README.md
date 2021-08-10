@@ -222,7 +222,7 @@
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
-- [discord-py-slash-commands/discord-py-interactions](https://github.com/discord-py-slash-commands/discord-py-interactions) - A simple Discord interactions handler for discord.py.
+- [discord-py-interactions/discord-py-interactions](https://github.com/discord-py-interactions/discord-py-interactions) - A simple Discord interactions handler for discord.py.
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [DenverCoder1/Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot) - Reddit bot to tag long lists of users
 - [abrahammurciano/rolling-tags](https://github.com/abrahammurciano/rolling-tags) - 
