@@ -242,6 +242,7 @@
 
 ## Shell 
 
+- [mattnotmitt/doxygen-action](https://github.com/mattnotmitt/doxygen-action) - 
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles) - My dotfiles for setting up my computers and CodeSpaces 🤓
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
@@ -253,6 +254,7 @@
 
 ## TypeScript 
 
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - Allows users to more easily use Octicons and their own icons and logos in shields.io badges
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
