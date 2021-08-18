@@ -20,6 +20,7 @@
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Slim](#slim)
@@ -244,6 +245,10 @@
 
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8) - Profile ReadME! Join my community word cloud!
+
+## Rust 
+
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
 ## SCSS 
 
