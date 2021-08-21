@@ -31,6 +31,7 @@
 
 ## C 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [msabramo/pyOpenSSL](https://github.com/msabramo/pyOpenSSL) - Experimental fork of lp:pyopenssl
 - [stub42/pytz](https://github.com/stub42/pytz) - pytz Python historical timezone library and database
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
