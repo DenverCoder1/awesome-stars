@@ -19,6 +19,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -241,6 +242,10 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 
+## R 
+
+- [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
+
 ## Ruby 
 
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -256,6 +261,7 @@
 
 ## Shell 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [mattnotmitt/doxygen-action](https://github.com/mattnotmitt/doxygen-action) - 
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles) - My dotfiles for setting up my computers and CodeSpaces 🤓
