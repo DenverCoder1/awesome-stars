@@ -15,6 +15,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Markdown](#markdown)
   - [Others](#others)
   - [PHP](#php)
@@ -150,6 +151,10 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
 - [ncase/door](https://github.com/ncase/door) - A Valentine's Day one-minute minigame
+
+## Jupyter Notebook 
+
+- [celiasmith/mind_field_stilwell_brain](https://github.com/celiasmith/mind_field_stilwell_brain) - The model used in the Stilwell Brain episode of Mind Field
 
 ## Markdown 
 
