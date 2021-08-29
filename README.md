@@ -206,6 +206,7 @@
 
 ## Python 
 
+- [nextcord/nextcord](https://github.com/nextcord/nextcord) - A maintained fork of dannys discord.py
 - [abrahammurciano/pygraphsearch](https://github.com/abrahammurciano/pygraphsearch) - 
 - [abrahammurciano/s-interpreter](https://github.com/abrahammurciano/s-interpreter) - 
 - [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
