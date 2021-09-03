@@ -206,6 +206,7 @@
 
 ## Python 
 
+- [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus) - 
 - [nextcord/previous](https://github.com/nextcord/previous) - The support bot for nextcord
 - [nextcord/nextcord](https://github.com/nextcord/nextcord) - A maintained fork of Danny's discord.py
 - [abrahammurciano/pygraphsearch](https://github.com/abrahammurciano/pygraphsearch) - 
