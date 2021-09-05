@@ -206,6 +206,7 @@
 
 ## Python 
 
+- [apurv-r/discord-together](https://github.com/apurv-r/discord-together) - An unofficial module that allows the use of the Discord's BETA feature, Party Games - like YouTube together or Poker Night.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus) - 
 - [nextcord/previous](https://github.com/nextcord/previous) - The support bot for nextcord
