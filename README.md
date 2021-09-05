@@ -206,6 +206,7 @@
 
 ## Python 
 
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus) - 
 - [nextcord/previous](https://github.com/nextcord/previous) - The support bot for nextcord
 - [nextcord/nextcord](https://github.com/nextcord/nextcord) - A maintained fork of Danny's discord.py
@@ -234,7 +235,7 @@
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot) - Discord bot for Weasley's Chess Club server
 - [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess) - Module for creating match links on Lichess that players can join
-- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - Module for converting 2D Python lists to fancy ASCII tables. Table2Ascii lets you display pretty tables in the terminal and on Discord.
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - Package for converting 2D Python lists to fancy ASCII tables. Table2Ascii lets you display pretty tables in the terminal and on Discord.
 - [kevslinger/ravenclaw-discord-bot](https://github.com/kevslinger/ravenclaw-discord-bot) - 
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
