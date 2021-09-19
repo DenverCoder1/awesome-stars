@@ -20,6 +20,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [QML](#qml)
   - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -252,6 +253,10 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
+
+## QML 
+
+- [abrahammurciano/plasma-splash-sweet-arch](https://github.com/abrahammurciano/plasma-splash-sweet-arch) - 
 
 ## R 
 
