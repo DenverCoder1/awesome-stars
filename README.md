@@ -123,7 +123,7 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [linuxmint/cinnamon-spices-applets](https://github.com/linuxmint/cinnamon-spices-applets) - Applets for the Cinnamon desktop
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [jamesqquick/learn-build-teach-discord-bot](https://github.com/jamesqquick/learn-build-teach-discord-bot) - 
+- [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot) - 
 - [abrahammurciano/nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [interledgerjs/web-monetization-scripts](https://github.com/interledgerjs/web-monetization-scripts) - Scripts to help you web monetize your site and/or API
