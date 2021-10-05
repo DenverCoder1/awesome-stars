@@ -244,7 +244,7 @@
 - [kevslinger/ravenclaw-discord-bot](https://github.com/kevslinger/ravenclaw-discord-bot) - 
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
-- [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) - Bot for JCT ESP Compsci Discord
+- [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) - Bot for JCT ESP CompSci Discord
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
