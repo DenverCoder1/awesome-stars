@@ -229,7 +229,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers. :tada:
 - [cyanfish/python-lichess](https://github.com/cyanfish/python-lichess) - Python client for the lichess.org API
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
