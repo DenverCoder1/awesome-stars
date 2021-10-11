@@ -96,6 +96,7 @@
 
 ## JavaScript 
 
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
 - [fregante/release-with-changelog](https://github.com/fregante/release-with-changelog) - Creates reasonable enough GitHub releases for pushed tags, with the commit log as release body
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
