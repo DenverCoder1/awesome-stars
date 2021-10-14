@@ -138,7 +138,6 @@
 - [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Unicode Formatter - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [fireship-io/229-multi-level-dropdown](https://github.com/fireship-io/229-multi-level-dropdown) - Build an animated multi-level dropdown inspired by Facebook's UI
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [codeSTACKr/react-tic-tac-toe-hooks](https://github.com/codeSTACKr/react-tic-tac-toe-hooks) - React Tic Tac Toe Game using Functional Components and Hooks
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -319,6 +318,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
