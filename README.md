@@ -211,6 +211,7 @@
 
 ## Python 
 
+- [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc) - 🌐 A discord.py extension for inter-process communication
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [apurv-r/discord-together](https://github.com/apurv-r/discord-together) - An unofficial module that allows the use of the Discord's BETA feature, Party Games - like YouTube together or Poker Night.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
