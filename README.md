@@ -212,6 +212,7 @@
 
 ## Python 
 
+- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc) - 🌐 A Nextcord extension for inter-process communication
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [apurv-r/discord-together](https://github.com/apurv-r/discord-together) - An unofficial module that allows the use of the Discord's BETA feature, Party Games - like YouTube together or Poker Night.
