@@ -47,6 +47,7 @@
 
 ## C++ 
 
+- [albertlauncher/plugins](https://github.com/albertlauncher/plugins) - Albert plugins
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -212,6 +213,7 @@
 
 ## Python 
 
+- [albertlauncher/python](https://github.com/albertlauncher/python) - A repository for the official Python extensions
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
 - [hugovk/em-keyboard](https://github.com/hugovk/em-keyboard) - the cli emoji keyboard™ [ author @kennethreitz ]
 - [bergercookie/awesome-albert-plugins](https://github.com/bergercookie/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
