@@ -99,7 +99,7 @@
 - [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
-- [fregante/release-with-changelog](https://github.com/fregante/release-with-changelog) - Creates reasonable enough GitHub releases for pushed tags, with the commit log as release body
+- [fregante/release-with-changelog](https://github.com/fregante/release-with-changelog) - Creates GitHub releases for pushed tags, with the commit log as release body
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [ntkme/react-github-btn](https://github.com/ntkme/react-github-btn) - :octocat: Unofficial github:button component for React.js
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
