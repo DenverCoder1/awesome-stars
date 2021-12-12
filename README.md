@@ -72,6 +72,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [nwtgck/gif-progress](https://github.com/nwtgck/gif-progress) - 🎬 Attach progress bar to animated GIF
 
@@ -169,6 +170,7 @@
 
 ## Others 
 
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -215,6 +217,7 @@
 
 ## Python 
 
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - BackgroundRemover lets you Remove Background from images and video with a simple command line interface
 - [albertlauncher/python](https://github.com/albertlauncher/python) - A repository for the official Python extensions
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
 - [hugovk/em-keyboard](https://github.com/hugovk/em-keyboard) - the cli emoji keyboard™ [ author @kennethreitz ]
