@@ -98,6 +98,7 @@
 
 ## JavaScript 
 
+- [golopot/tex-to-unicode](https://github.com/golopot/tex-to-unicode) - Input Unicode math symbols by TeX. A Chrome extension.
 - [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
