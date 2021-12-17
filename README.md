@@ -128,7 +128,6 @@
 - [patrickxchong/hide-discord-sidebar](https://github.com/patrickxchong/hide-discord-sidebar) - Chrome and Firefox extension to hide Discord servers and channels
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [linuxmint/cinnamon-spices-applets](https://github.com/linuxmint/cinnamon-spices-applets) - Applets for the Cinnamon desktop
-- [mallowigi/material-dev-tools](https://github.com/mallowigi/material-dev-tools) - Material Theme UI for Chrome DevTools
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot) - 
 - [abrahammurciano/nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
@@ -295,6 +294,7 @@
 ## SCSS 
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [mallowigi/material-dev-tools](https://github.com/mallowigi/material-dev-tools) - Material Theme UI for Chrome DevTools
 
 ## Shell 
 
