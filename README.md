@@ -220,6 +220,8 @@
 
 ## Python 
 
+- [jaraco/inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
+- [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - BackgroundRemover lets you Remove Background from images and video with a simple command line interface
 - [albertlauncher/python](https://github.com/albertlauncher/python) - A repository for the official Python extensions
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
