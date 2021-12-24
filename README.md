@@ -112,7 +112,6 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Automattic/monk](https://github.com/Automattic/monk) - The wise MongoDB API
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
-- [nfriedly/express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [jgclark/vscode-todo-highlight](https://github.com/jgclark/vscode-todo-highlight) - VSCode Extension to highlight TODOs etc.
@@ -321,6 +320,7 @@
 - [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [nfriedly/express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - Allows users to more easily use Octicons and their own icons and logos in shields.io badges
