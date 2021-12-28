@@ -25,6 +25,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Slim](#slim)
   - [TypeScript](#typescript)
@@ -300,6 +301,10 @@
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [mallowigi/material-dev-tools](https://github.com/mallowigi/material-dev-tools) - Material Theme UI for Chrome DevTools
+
+## Scala 
+
+- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 
 ## Shell 
 
