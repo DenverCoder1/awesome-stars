@@ -222,6 +222,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [nextcord/nextcord-v3](https://github.com/nextcord/nextcord-v3) - A fast modular discord API wrapper written for python
 - [jaraco/inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
