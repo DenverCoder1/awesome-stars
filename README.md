@@ -141,7 +141,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people) - Awesome list of cool people - star if you want to join
-- [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Unicode Formatter - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text.
+- [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [fireship-io/229-multi-level-dropdown](https://github.com/fireship-io/229-multi-level-dropdown) - Build an animated multi-level dropdown inspired by Facebook's UI
 - [codeSTACKr/react-tic-tac-toe-hooks](https://github.com/codeSTACKr/react-tic-tac-toe-hooks) - React Tic Tac Toe Game using Functional Components and Hooks
@@ -265,7 +265,7 @@
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot) - Discord bot for Weasley's Chess Club server
 - [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess) - Module for creating match links on Lichess that players can join
-- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - Library for converting 2D Python lists to fancy ASCII tables. Table2Ascii lets you display pretty tables in the terminal and on Discord.
+- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - Python library for converting lists to fancy ASCII tables for displaying in the terminal and on Discord
 - [kevslinger/ravenclaw-discord-bot](https://github.com/kevslinger/ravenclaw-discord-bot) - 
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
@@ -333,7 +333,7 @@
 - [nfriedly/express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
-- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - Allows users to more easily use Octicons and their own icons and logos in shields.io badges
+- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos in shields.io badges
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [Huuums/vscode-folder-templates](https://github.com/Huuums/vscode-folder-templates) - Create your own Component structure with a simple click.
