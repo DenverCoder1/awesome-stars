@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [nwtgck/gif-progress](https://github.com/nwtgck/gif-progress) - 🎬 Attach progress bar to animated GIF
@@ -325,6 +326,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/browser-extension](https://github.com/gitpod-io/browser-extension) - The browser extension for gitpod.io. Works with Chrome and Firefox.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers.
