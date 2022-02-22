@@ -219,7 +219,7 @@
 - [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php) - PHP implementation of Nanoid, secure URL-friendly unique ID generator
 - [bramus/router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-- [icanhazstring/random-issue-picker](https://github.com/icanhazstring/random-issue-picker) - Select arandom issue from github or gitlab by certain criteria
+- [icanhazstring/random-issue-picker](https://github.com/icanhazstring/random-issue-picker) - Select a random issue from github or gitlab by certain criteria
 - [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
 
 ## Python 
