@@ -224,6 +224,7 @@
 
 ## Python 
 
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [esfox/albert-discord-timestamp](https://github.com/esfox/albert-discord-timestamp) - Discord Timestamp Generator Python extension for the Albert Launcher
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [abrahammurciano/paul-bot](https://github.com/abrahammurciano/paul-bot) - Hi! I'm Paul; a teeny tiny bot who's good at one thing. Making polls. And when I say good, I mean really really good. Like the bestest best bot ever at making polls. I can make open polls, I can make closed polls, I can make dynamically editable polls, and I can make them any size. And all that with a simple, good-looking, and easy to use interface! So come on and try me out in your server!
