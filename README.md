@@ -100,6 +100,7 @@
 
 ## JavaScript 
 
+- [giltayar/proposal-types-as-comments](https://github.com/giltayar/proposal-types-as-comments) - ECMAScript proposal for type syntax that is erased - Stage 0
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [jitbit/HtmlSanitizer](https://github.com/jitbit/HtmlSanitizer) - Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
