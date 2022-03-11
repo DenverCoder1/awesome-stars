@@ -225,6 +225,7 @@
 
 ## Python 
 
+- [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [esfox/albert-discord-timestamp](https://github.com/esfox/albert-discord-timestamp) - Discord Timestamp Generator Python extension for the Albert Launcher
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
