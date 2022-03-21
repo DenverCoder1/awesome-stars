@@ -139,7 +139,7 @@
 - [ArnoldSmith86/virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop) - a virtual surface in the browser on which you can play board, dice and card games
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people) - Awesome list of cool people - star if you want to join
