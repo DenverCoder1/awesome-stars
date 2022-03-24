@@ -100,6 +100,7 @@
 
 ## JavaScript 
 
+- [GrimZZZ-404/gitpod-bot](https://github.com/GrimZZZ-404/gitpod-bot) - A discord bot for https://gitpod.io/chat
 - [giltayar/proposal-types-as-comments](https://github.com/giltayar/proposal-types-as-comments) - ECMAScript proposal for type syntax that is erased - Stage 0
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
