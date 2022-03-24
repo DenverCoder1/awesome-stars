@@ -225,6 +225,7 @@
 
 ## Python 
 
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [esfox/albert-discord-timestamp](https://github.com/esfox/albert-discord-timestamp) - Discord Timestamp Generator Python extension for the Albert Launcher
