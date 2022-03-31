@@ -102,7 +102,7 @@
 ## JavaScript 
 
 - [GrimZZZ-404/gitpod-bot](https://github.com/GrimZZZ-404/gitpod-bot) - A discord bot for https://gitpod.io/chat
-- [giltayar/proposal-types-as-comments](https://github.com/giltayar/proposal-types-as-comments) - ECMAScript proposal for type syntax that is erased - Stage 0
+- [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [jitbit/HtmlSanitizer](https://github.com/jitbit/HtmlSanitizer) - Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
