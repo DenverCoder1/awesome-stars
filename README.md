@@ -267,7 +267,7 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers. :tada:
+- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [cyanfish/python-lichess](https://github.com/cyanfish/python-lichess) - Python client for the lichess.org API
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
