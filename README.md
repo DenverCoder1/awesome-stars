@@ -16,6 +16,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
   - [Markdown](#markdown)
   - [Others](#others)
   - [PHP](#php)
@@ -168,6 +169,10 @@
 ## Jupyter Notebook 
 
 - [celiasmith/mind_field_stilwell_brain](https://github.com/celiasmith/mind_field_stilwell_brain) - The model used in the Stilwell Brain episode of Mind Field
+
+## Kotlin 
+
+- [ReVancedTeam/revanced-patcher](https://github.com/ReVancedTeam/revanced-patcher) - Repo for the patcher used by ReVanced
 
 ## Markdown 
 
