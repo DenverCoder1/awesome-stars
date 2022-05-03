@@ -369,7 +369,7 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with lots of features.
-- [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
+- [bitwarden/bitwarden](https://github.com/bitwarden/bitwarden) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot) - 
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
