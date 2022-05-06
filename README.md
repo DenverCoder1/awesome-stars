@@ -172,7 +172,7 @@
 
 ## Kotlin 
 
-- [ReVancedTeam/revanced-patcher](https://github.com/ReVancedTeam/revanced-patcher) - Repo for the patcher used by ReVanced
+- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - Repo for the patcher used by ReVanced
 
 ## Markdown 
 
