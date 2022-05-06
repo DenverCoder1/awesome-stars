@@ -239,7 +239,7 @@
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [esfox/albert-discord-timestamp](https://github.com/esfox/albert-discord-timestamp) - Discord Timestamp Generator Python extension for the Albert Launcher
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [abrahammurciano/paul-bot](https://github.com/abrahammurciano/paul-bot) - Hi! I'm Paul; a teeny tiny bot who's good at one thing. Making polls. And when I say good, I mean really really good. Like the bestest best bot ever at making polls. I can make open polls, I can make closed polls, I can make dynamically editable polls, and I can make them any size. And all that with a simple, good-looking, and easy to use interface! So come on and try me out in your server!
+- [abrahammurciano/paul-bot](https://github.com/abrahammurciano/paul-bot) - Hi! I'm Paul; a teeny tiny bot who's good at one thing. Making polls. And when I say good, I mean really really good. Like the bestest best bot ever at making polls. I can make open polls, I can make
 - [abrahammurciano/discord-lumberjack](https://github.com/abrahammurciano/discord-lumberjack) - A Python logging handler which sends its logs to a Discord Channel
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [nextcord/nextcord-v3](https://github.com/nextcord/nextcord-v3) - A fast modular discord API wrapper written for python
@@ -338,7 +338,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles) - My dotfiles for setting up my computers and CodeSpaces 🤓
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Slim 
 
