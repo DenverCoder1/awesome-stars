@@ -222,6 +222,7 @@
 
 ## PHP 
 
+- [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [jan-vandenberg/cruddiy](https://github.com/jan-vandenberg/cruddiy) - No-code Bootstrap PHP CRUD generator
 - [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
