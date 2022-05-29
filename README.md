@@ -343,6 +343,7 @@
 
 ## Shell 
 
+- [php-actions/phpunit](https://github.com/php-actions/phpunit) - Run your PHPUnit tests in your Github Actions.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [mattnotmitt/doxygen-action](https://github.com/mattnotmitt/doxygen-action) - GitHub Action for generating Doxygen documentation for your projects.
