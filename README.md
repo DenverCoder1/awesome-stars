@@ -242,6 +242,7 @@
 
 ## Python 
 
+- [nomnoms12/saucenao_api](https://github.com/nomnoms12/saucenao_api) - Wrapper for SauceNAO JSON API
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake) - An API wrapper for Discord written in Python.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
