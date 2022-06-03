@@ -242,6 +242,7 @@
 
 ## Python 
 
+- [kevslinger/bot-be-named](https://github.com/kevslinger/bot-be-named) - 
 - [nomnoms12/saucenao_api](https://github.com/nomnoms12/saucenao_api) - Wrapper for SauceNAO JSON API
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake) - An API wrapper for Discord written in Python.
