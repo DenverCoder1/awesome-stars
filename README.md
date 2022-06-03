@@ -242,6 +242,7 @@
 
 ## Python 
 
+- [abrahammurciano/rainbowlog](https://github.com/abrahammurciano/rainbowlog) - Format your python logs with colours based on the log levels.
 - [kevslinger/bot-be-named](https://github.com/kevslinger/bot-be-named) - 
 - [nomnoms12/saucenao_api](https://github.com/nomnoms12/saucenao_api) - Wrapper for SauceNAO JSON API
 - [pixray/pixray](https://github.com/pixray/pixray) - 
