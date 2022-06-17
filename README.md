@@ -245,6 +245,7 @@
 
 ## Python 
 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [abrahammurciano/rainbowlog](https://github.com/abrahammurciano/rainbowlog) - Format your python logs with colours based on the log levels.
 - [kevslinger/bot-be-named](https://github.com/kevslinger/bot-be-named) - 
 - [nomnoms12/saucenao_api](https://github.com/nomnoms12/saucenao_api) - Wrapper for SauceNAO JSON API
