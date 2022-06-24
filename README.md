@@ -245,6 +245,7 @@
 
 ## Python 
 
+- [openai/openai-python](https://github.com/openai/openai-python) - 
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [abrahammurciano/rainbowlog](https://github.com/abrahammurciano/rainbowlog) - Format your python logs with colours based on the log levels.
 - [kevslinger/bot-be-named](https://github.com/kevslinger/bot-be-named) - 
