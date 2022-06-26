@@ -352,6 +352,7 @@
 
 ## Shell 
 
+- [abrahammurciano/plymouth-theme-sweet-arch](https://github.com/abrahammurciano/plymouth-theme-sweet-arch) - 
 - [creyD/prettier_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
 - [php-actions/phpunit](https://github.com/php-actions/phpunit) - Run your PHPUnit tests in your Github Actions.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
