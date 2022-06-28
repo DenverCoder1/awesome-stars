@@ -278,7 +278,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus) - A nextcord menu and pagination extension that makes working with reaction menus and button component menus a bit easier
 - [nextcord/previous](https://github.com/nextcord/previous) - The support bot for nextcord
-- [nextcord/nextcord](https://github.com/nextcord/nextcord) - A maintained fork of Danny's discord.py
+- [nextcord/nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
 - [abrahammurciano/pygraphsearch](https://github.com/abrahammurciano/pygraphsearch) - 
 - [abrahammurciano/s-interpreter](https://github.com/abrahammurciano/s-interpreter) - 
 - [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
