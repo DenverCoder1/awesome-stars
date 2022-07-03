@@ -191,7 +191,6 @@
 
 ## Others 
 
-- [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands) - A nextcord extension for a collection of help command implementations
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [github-community/community](https://github.com/github-community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
@@ -246,6 +245,7 @@
 
 ## Python 
 
+- [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands) - A Nextcord extension for pre-built custom help commands for prefix commands and slash commands.
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [openai/openai-python](https://github.com/openai/openai-python) - 
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
