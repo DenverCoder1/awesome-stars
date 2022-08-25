@@ -250,6 +250,8 @@
 
 ## Python 
 
+- [replicate/cog-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - Diffusers Stable Diffusion as a Cog model
+- [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
 - [abrahammurciano/python-constyle](https://github.com/abrahammurciano/python-constyle) - A Python library to add style to your console.
 - [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands) - A Nextcord extension for pre-built custom help commands for prefix commands and slash commands.
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
