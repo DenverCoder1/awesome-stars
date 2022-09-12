@@ -177,7 +177,7 @@
 
 ## Jupyter Notebook 
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [celiasmith/mind_field_stilwell_brain](https://github.com/celiasmith/mind_field_stilwell_brain) - The model used in the Stilwell Brain episode of Mind Field
 
 ## Kotlin 
