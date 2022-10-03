@@ -254,6 +254,7 @@
 
 ## Python 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [replicate/cog-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - Diffusers Stable Diffusion as a Cog model
 - [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
 - [abrahammurciano/python-constyle](https://github.com/abrahammurciano/python-constyle) - A Python library to add style to your console.
