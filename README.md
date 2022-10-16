@@ -255,6 +255,7 @@
 
 ## Python 
 
+- [python-babel/babel](https://github.com/python-babel/babel) - The official repository for Babel, the Python Internationalization Library
 - [danhper/python-i18n](https://github.com/danhper/python-i18n) - Easy to use i18n library for Python
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [replicate/cog-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - Diffusers Stable Diffusion as a Cog model
