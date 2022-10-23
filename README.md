@@ -115,6 +115,7 @@
 
 ## JavaScript 
 
+- [amondnet/vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [GrimZZZ-404/gitpod-bot](https://github.com/GrimZZZ-404/gitpod-bot) - A discord bot for https://gitpod.io/chat
