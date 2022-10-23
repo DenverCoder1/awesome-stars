@@ -255,6 +255,7 @@
 
 ## Python 
 
+- [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [python-babel/babel](https://github.com/python-babel/babel) - The official repository for Babel, the Python Internationalization Library
 - [danhper/python-i18n](https://github.com/danhper/python-i18n) - Easy to use i18n library for Python
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
