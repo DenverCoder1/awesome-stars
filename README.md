@@ -258,6 +258,7 @@
 
 ## Python 
 
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [python-babel/babel](https://github.com/python-babel/babel) - The official repository for Babel, the Python Internationalization Library
@@ -391,6 +392,7 @@
 
 ## TypeScript 
 
+- [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
