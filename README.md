@@ -291,7 +291,7 @@
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video with a simple command line interface that is free and open source.
 - [albertlauncher/python](https://github.com/albertlauncher/python) - A repository for the official Python extensions
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
-- [hugovk/em-keyboard](https://github.com/hugovk/em-keyboard) - the cli emoji keyboard
+- [hugovk/em-keyboard](https://github.com/hugovk/em-keyboard) - The CLI emoji keyboard
 - [bergercookie/awesome-albert-plugins](https://github.com/bergercookie/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
