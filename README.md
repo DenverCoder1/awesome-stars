@@ -58,6 +58,7 @@
 
 ## C++ 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [albertlauncher/plugins](https://github.com/albertlauncher/plugins) - Albert plugins
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
