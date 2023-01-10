@@ -44,6 +44,7 @@
 
 ## C 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [msabramo/pyOpenSSL](https://github.com/msabramo/pyOpenSSL) - Experimental fork of lp:pyopenssl
 - [stub42/pytz](https://github.com/stub42/pytz) - pytz Python historical timezone library and database
@@ -367,7 +368,6 @@
 
 ## Rust 
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
