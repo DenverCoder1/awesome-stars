@@ -109,6 +109,7 @@
 
 ## Java 
 
+- [cylonid/NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) - 
 - [humzakh/removed](https://github.com/humzakh/removed) - An Android app for quickly viewing [removed] and [deleted] reddit comments.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
