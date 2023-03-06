@@ -268,7 +268,7 @@
 - [jquast/wcwidth](https://github.com/jquast/wcwidth) - Python library that measures the width of unicode strings rendered to a terminal
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [python-babel/babel](https://github.com/python-babel/babel) - The official repository for Babel, the Python Internationalization Library
