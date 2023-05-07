@@ -194,7 +194,7 @@
 ## Kotlin 
 
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
-- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
+- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 
 ## Markdown 
 
