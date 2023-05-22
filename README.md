@@ -229,6 +229,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [DenverCoderOne/My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
 - [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
@@ -348,6 +349,7 @@
 - [DenverCoder1/Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot) - Reddit bot to tag long lists of users
 - [abrahammurciano/rolling-tags](https://github.com/abrahammurciano/rolling-tags) - 
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 
