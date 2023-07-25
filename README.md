@@ -123,7 +123,6 @@
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - 
 - [amondnet/vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [GrimZZZ-404/gitpod-bot](https://github.com/GrimZZZ-404/gitpod-bot) - A discord bot for https://gitpod.io/chat
 - [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
@@ -415,6 +414,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [DenverCoderOne/readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README (fork of readme-repos-list by koj-co)
