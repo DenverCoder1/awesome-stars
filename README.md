@@ -323,7 +323,7 @@
 - [praw-dev/prawcore](https://github.com/praw-dev/prawcore) - Low-level communication layer for PRAW 4+.
 - [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
