@@ -281,7 +281,7 @@
 - [abrahammurciano/python-constyle](https://github.com/abrahammurciano/python-constyle) - A Python library to add style to your console.
 - [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands) - A Nextcord extension for pre-built custom help commands for prefix commands and slash commands.
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
-- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [abrahammurciano/rainbowlog](https://github.com/abrahammurciano/rainbowlog) - Format your python logs with colours based on the log levels.
 - [kevslinger/bot-be-named](https://github.com/kevslinger/bot-be-named) - 
