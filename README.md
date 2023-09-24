@@ -116,6 +116,7 @@
 
 ## JavaScript 
 
+- [Fabiz/MeeusJs](https://github.com/Fabiz/MeeusJs) - MeeusJs is an implementation of some algorithms of the Book 'Astronomical Algorithms of Jean Meeus' in Javascript.
 - [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 - [iamkumaran/daterangepicker-dayjs](https://github.com/iamkumaran/daterangepicker-dayjs) - JavaScript Date Range, Date and Time Picker Component
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
