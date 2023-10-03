@@ -116,6 +116,7 @@
 
 ## JavaScript 
 
+- [jawj/OverlappingMarkerSpiderfier](https://github.com/jawj/OverlappingMarkerSpiderfier) - Deals with overlapping markers in Google Maps JS API v3, Google Earth-style
 - [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - Hebcal, a perpetual Jewish Calendar (ES6)
 - [Fabiz/MeeusJs](https://github.com/Fabiz/MeeusJs) - MeeusJs is an implementation of some algorithms of the Book 'Astronomical Algorithms of Jean Meeus' in Javascript.
 - [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
