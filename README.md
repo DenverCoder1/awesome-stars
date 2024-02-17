@@ -286,7 +286,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [abrahammurciano/rainbowlog](https://github.com/abrahammurciano/rainbowlog) - Format your python logs with colours based on the log levels.
-- [kevslinger/bot-be-named](https://github.com/kevslinger/bot-be-named) - 
+- [TheOriginalSoni/bot-be-named](https://github.com/TheOriginalSoni/bot-be-named) - 
 - [nomnoms12/saucenao_api](https://github.com/nomnoms12/saucenao_api) - Wrapper for SauceNAO JSON API
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake) - An API wrapper for Discord written in Python.
