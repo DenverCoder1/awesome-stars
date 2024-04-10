@@ -227,7 +227,7 @@
 - [mhsattarian/nemo-open-in-vscode](https://github.com/mhsattarian/nemo-open-in-vscode) - "Open in vscode" option for context menu in Cinnamon file manager, Nemo.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [DenverCoderOne/My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
