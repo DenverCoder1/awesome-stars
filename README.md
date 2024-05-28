@@ -416,7 +416,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [DenverCoderOne/readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README (fork of readme-repos-list by koj-co)
