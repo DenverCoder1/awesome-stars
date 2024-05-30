@@ -117,7 +117,6 @@
 
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 - [jawj/OverlappingMarkerSpiderfier](https://github.com/jawj/OverlappingMarkerSpiderfier) - Deals with overlapping markers in Google Maps JS API v3, Google Earth-style
-- [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - Hebcal, a perpetual Jewish Calendar (ES6)
 - [Fabiz/MeeusJs](https://github.com/Fabiz/MeeusJs) - MeeusJs is an implementation of some algorithms of the Book 'Astronomical Algorithms of Jean Meeus' in Javascript.
 - [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 - [iamkumaran/daterangepicker-dayjs](https://github.com/iamkumaran/daterangepicker-dayjs) - JavaScript Date Range, Date and Time Picker Component
@@ -408,6 +407,7 @@
 
 ## TypeScript 
 
+- [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - Hebcal, a perpetual Jewish Calendar (ES6)
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
