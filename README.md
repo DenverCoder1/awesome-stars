@@ -93,6 +93,7 @@
 
 ## HTML 
 
+- [enric1994/resume](https://github.com/enric1994/resume) - My 3D resume
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [jitbit/HtmlSanitizer](https://github.com/jitbit/HtmlSanitizer) - Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
