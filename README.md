@@ -383,7 +383,7 @@
 ## SCSS 
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
-- [mallowigi/material-dev-tools](https://github.com/mallowigi/material-dev-tools) - Material Theme UI for Chrome DevTools
+- [AtomMaterialUI/material-dev-tools](https://github.com/AtomMaterialUI/material-dev-tools) - Material Theme UI for Chrome DevTools
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 
 ## Scala 
