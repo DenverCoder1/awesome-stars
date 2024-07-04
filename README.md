@@ -124,7 +124,7 @@
 - [iamkumaran/daterangepicker-dayjs](https://github.com/iamkumaran/daterangepicker-dayjs) - JavaScript Date Range, Date and Time Picker Component
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [EastDesire/jscolor](https://github.com/EastDesire/jscolor) - JavaScript color picker with opacity (alpha channel) and customizable palette. Single file of plain JS with no dependencies.
-- [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - 
+- [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - Browser Addon that enhances file browsers of version controls with material icons.
 - [amondnet/vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [GrimZZZ-404/gitpod-bot](https://github.com/GrimZZZ-404/gitpod-bot) - A discord bot for https://gitpod.io/chat
