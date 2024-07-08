@@ -409,7 +409,7 @@
 
 ## TypeScript 
 
-- [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - Hebcal, a perpetual Jewish Calendar (ES6)
+- [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - Hebcal, a perpetual Jewish Calendar (JavaScript / TypeScript)
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
