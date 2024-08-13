@@ -408,6 +408,7 @@
 
 ## TypeScript 
 
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - perpetual Jewish Calendar with holidays, Shabbat and holiday candle lighting and havdalah times, Torah readings, and more
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
