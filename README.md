@@ -200,6 +200,7 @@
 
 ## Markdown 
 
+- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
 
@@ -207,7 +208,6 @@
 
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
-- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
