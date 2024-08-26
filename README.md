@@ -186,6 +186,7 @@
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
+- [astrit/css.gg](https://github.com/astrit/css.gg) - A comprehensive, open-source CSS icons library. Featuring Vanilla CSS, SVG and Figma UI icons
 - [ncase/door](https://github.com/ncase/door) - A Valentine's Day one-minute minigame
 
 ## Jupyter Notebook 
@@ -384,7 +385,6 @@
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [AtomMaterialUI/material-dev-tools](https://github.com/AtomMaterialUI/material-dev-tools) - Material Theme UI for Chrome DevTools
-- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 
 ## Scala 
 
