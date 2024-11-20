@@ -103,6 +103,7 @@
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [mdayaram/calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Java 
@@ -235,7 +236,6 @@
 - [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
 - [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
