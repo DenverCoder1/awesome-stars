@@ -92,7 +92,7 @@
 
 ## HTML 
 
-- [schlomo/page-sizer](https://github.com/schlomo/page-sizer) - Google Docs add-on to to specify custom page sizes.
+- [burnnat/page-sizer](https://github.com/burnnat/page-sizer) - Google Docs add-on to to specify custom page sizes.
 - [enric1994/resume](https://github.com/enric1994/resume) - My 3D resume
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [jitbit/HtmlSanitizer](https://github.com/jitbit/HtmlSanitizer) - Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
