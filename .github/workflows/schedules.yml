@@ -2,6 +2,9 @@ name: update awesome-stars
 on:
   schedule:
   - cron: 0 * * * *
+  push:
+    paths:
+    - .github/workflows/schedules.yml
 jobs:
   awesome-stars:
     name: update awesome-stars
