@@ -133,7 +133,7 @@
 - [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
-- [golopot/tex-to-unicode](https://github.com/golopot/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
+- [chiawendt/tex-to-unicode](https://github.com/chiawendt/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
 - [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 - [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
 - [fregante/release-with-changelog](https://github.com/fregante/release-with-changelog) - Creates GitHub releases for pushed tags, with the commit log as release body
