@@ -160,7 +160,6 @@
 - [linuxmint/cinnamon-spices-applets](https://github.com/linuxmint/cinnamon-spices-applets) - Applets for the Cinnamon desktop
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [abrahammurciano/nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [interledgerjs/web-monetization-scripts](https://github.com/interledgerjs/web-monetization-scripts) - Scripts to help you web monetize your site and/or API
 - [ArnoldSmith86/virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop) - a virtual surface in the browser on which you can play board, dice and card games
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -203,6 +202,7 @@
 ## MDX 
 
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 
 ## Markdown 
 
