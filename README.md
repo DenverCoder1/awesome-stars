@@ -94,7 +94,6 @@
 ## HTML 
 
 - [burnnat/page-sizer](https://github.com/burnnat/page-sizer) - Google Docs add-on to to specify custom page sizes.
-- [enric1994/resume](https://github.com/enric1994/resume) - My 3D resume
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [jitbit/HtmlSanitizer](https://github.com/jitbit/HtmlSanitizer) - Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -416,6 +415,7 @@
 ## TypeScript 
 
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
+- [enric1994/resume](https://github.com/enric1994/resume) - My 3D resume
 - [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - perpetual Jewish Calendar with holidays, Shabbat and holiday candle lighting and havdalah times, Torah readings, and more
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
