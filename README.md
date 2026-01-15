@@ -423,7 +423,7 @@
 - [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
 - [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - Material Design icons for web browsers
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
+- [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.5)
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with Astro and Bulma.
