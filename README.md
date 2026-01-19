@@ -155,7 +155,6 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [patrickxchong/hide-discord-sidebar](https://github.com/patrickxchong/hide-discord-sidebar) - Chrome and Firefox extension to hide Discord servers and channels
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [linuxmint/cinnamon-spices-applets](https://github.com/linuxmint/cinnamon-spices-applets) - Applets for the Cinnamon desktop
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [abrahammurciano/nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
@@ -228,6 +227,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [mhsattarian/nemo-open-in-vscode](https://github.com/mhsattarian/nemo-open-in-vscode) - "Open in vscode" option for context menu in Cinnamon file manager, Nemo.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
@@ -446,7 +446,7 @@
 - [Huuums/vscode-folder-templates](https://github.com/Huuums/vscode-folder-templates) - Create your own Component structure with a simple click.
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Inclusive words Discord bot (no more "hey guys")
-- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
+- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
