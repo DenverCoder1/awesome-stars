@@ -320,7 +320,7 @@
 - [nextcord/nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
 - [abrahammurciano/pygraphsearch](https://github.com/abrahammurciano/pygraphsearch) - 
 - [abrahammurciano/s-interpreter](https://github.com/abrahammurciano/s-interpreter) - 
-- [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
+- [dxsmiley/mathbot](https://github.com/dxsmiley/mathbot) - Discord bot for mathematics
 - [woohyunjng/discord.py-components](https://github.com/woohyunjng/discord.py-components) - An unofficial third-party library of discord.py for discord components.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
