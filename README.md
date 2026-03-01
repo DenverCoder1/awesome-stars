@@ -356,7 +356,7 @@
 - [DenverCoder1/Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot) - Reddit bot to tag long lists of users
 - [abrahammurciano/rolling-tags](https://github.com/abrahammurciano/rolling-tags) - 
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
