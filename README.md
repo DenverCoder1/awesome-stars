@@ -418,7 +418,7 @@
 - [enric1994/resume](https://github.com/enric1994/resume) - My 3D resume
 - [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - perpetual Jewish Calendar with holidays, Shabbat and holiday candle lighting and havdalah times, Torah readings, and more
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jakebailey/pyright-action](https://github.com/jakebailey/pyright-action) - GitHub Action for pyright
 - [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - Material Design icons for web browsers
