@@ -413,6 +413,7 @@
 
 ## TypeScript 
 
+- [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [enric1994/resume](https://github.com/enric1994/resume) - My 3D resume
 - [hebcal/hebcal-es6](https://github.com/hebcal/hebcal-es6) - perpetual Jewish Calendar with holidays, Shabbat and holiday candle lighting and havdalah times, Torah readings, and more
