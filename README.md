@@ -366,7 +366,7 @@
 
 ## R 
 
-- [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
+- [JohsEnevoldsen/literature-clock](https://github.com/JohsEnevoldsen/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
 
 ## Ruby 
