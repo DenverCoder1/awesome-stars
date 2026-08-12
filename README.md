@@ -310,7 +310,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc) - 🌐 A Nextcord extension for inter-process communication
-- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Dataframes
 - [apurv-r/discord-together](https://github.com/apurv-r/discord-together) - An unofficial module that allows the use of the Discord's BETA feature, Party Games - like YouTube together or Poker Night.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus) - A nextcord menu and pagination extension that makes working with reaction menus and button component menus a bit easier
