@@ -46,7 +46,7 @@
 
 ## C 
 
-- [jquast/wcwidth](https://github.com/jquast/wcwidth) - Python library that measures the width of strings in a terminal
+- [jquast/wcwidth](https://github.com/jquast/wcwidth) - Python and C11 library that measures the width of strings in a terminal
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [msabramo/pyOpenSSL](https://github.com/msabramo/pyOpenSSL) - Experimental fork of lp:pyopenssl
 - [stub42/pytz](https://github.com/stub42/pytz) - pytz Python historical timezone library and database
