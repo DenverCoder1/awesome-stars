@@ -387,7 +387,6 @@
 ## SCSS 
 
 - [abe-101/myHebrewDates](https://github.com/abe-101/myHebrewDates) - Automatically sync recurring Hebrew calendar events, like birthdays and anniversaries, to your digital calendar
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [AtomMaterialUI/material-dev-tools](https://github.com/AtomMaterialUI/material-dev-tools) - Material Theme UI for Chrome DevTools
 
 ## Scala 
@@ -444,6 +443,7 @@
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [Huuums/vscode-folder-templates](https://github.com/Huuums/vscode-folder-templates) - Create your own Component structure with a simple click.
