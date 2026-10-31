@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dart](#dart)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -85,6 +86,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## Emacs Lisp 
+
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+
 ## Go 
 
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -99,7 +104,6 @@
 - [burnnat/page-sizer](https://github.com/burnnat/page-sizer) - Google Docs add-on to to specify custom page sizes.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [jitbit/HtmlSanitizer](https://github.com/jitbit/HtmlSanitizer) - Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [FabDevGit/barchartrace](https://github.com/FabDevGit/barchartrace) - Bar chart race online editor
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
