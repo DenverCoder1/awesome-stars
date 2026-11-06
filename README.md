@@ -274,6 +274,7 @@
 
 ## Python 
 
+- [guibranco/progressbar](https://github.com/guibranco/progressbar) - 🚀📊 Generates a dynamic progress bar image in SVG format, perfect for badges, dashboards, and visual indicators. Customize colors, sizes, and progress values with ease!
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
