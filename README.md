@@ -274,6 +274,7 @@
 
 ## Python 
 
+- [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [guibranco/progressbar](https://github.com/guibranco/progressbar) - 🚀📊 Generates a dynamic progress bar image in SVG format, perfect for badges, dashboards, and visual indicators. Customize colors, sizes, and progress values with ease!
 - [abe-101/myHebrewDates](https://github.com/abe-101/myHebrewDates) - Automatically sync recurring Hebrew calendar events, like birthdays and anniversaries, to your digital calendar
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
